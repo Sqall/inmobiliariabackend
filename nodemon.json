@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGODB_PW": "gattipass",
+        "JWT_KEY": "secret"
+    }
+    
+}
