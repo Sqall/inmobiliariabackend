@@ -14,7 +14,6 @@ const propiedadesRoutes = require('./api/routes/propiedades');
 *
 *
 *
-*
 */
 //'mongodb://hermangatti:gattipass@ds113668.mlab.com:13668/inmobiliariahermangatti'
 mongoose.connect('mongodb://hermangatti:'+ process.env.MONGODB_PW +'@ds113668.mlab.com:13668/inmobiliariahermangatti',{useNewUrlParser: true})
